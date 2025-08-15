@@ -1,6 +1,8 @@
-## Ig this is my profile page 🔥
+### Ig this is my profile page 🔥
 
 I am Sanjeev Srinivas, pursuing a B.Sc degree from IIT Madras and a B.Tech degree from another college.
+
+**Second Account** : https://github.com/24f1000511
 
 I thrive on intriguing projects — whether they’re groundbreaking or just delightfully silly. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash⚡
 
@@ -8,7 +10,7 @@ Slight affinity towards Machine Learning👾, Cloud Systems☁️ and Flask-base
 
 Also interested in system architecture, DNS-level networking, and game design.
 
-Have written an research paper on Sitting Duck attacks
+Have written an research paper on Sitting Duck cyber-attack.
 
 GeoGuessr 🌍 nerd.
 
