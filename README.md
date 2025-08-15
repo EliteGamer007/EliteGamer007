@@ -1,6 +1,13 @@
-## Hi there 👋
+## Ig this is my profile page 
 
-Im a hoe
+I am Sanjeev Srinivas, pursuing a B.Sc degree from IIT Madras and a B.Tech degree from another college.
+
+Always working on intriguing projects and ready to take on silly ideas. Starting a new idea might take time but once Im into it, best beleive Im finishing it in a flash.
+
+Slight affinity towards Machine Learning, Cloud Systems
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliteGamer007&layout=compact)
+
 <!--
 **EliteGamer007/EliteGamer007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
