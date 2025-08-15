@@ -1,14 +1,17 @@
-## Ig this is my profile page 
+## Ig this is my profile page 🔥
 
 I am Sanjeev Srinivas, pursuing a B.Sc degree from IIT Madras and a B.Tech degree from another college.
 
-I thrive on intriguing projects — whether they’re groundbreaking or just delightfully silly. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash
+I thrive on intriguing projects — whether they’re groundbreaking or just delightfully silly. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash⚡
 
-Slight affinity towards Machine Learning, Cloud Systems
+Slight affinity towards Machine Learning👾, Cloud Systems☁️ and Flask-based End-to-End Applications📚.
+Also interested in system architecture, DNS-level networking, and game design.
+Have written an research paper on Sitting Duck attacks
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliteGamer007&layout=compact)
 
 Stuff I might know:
+
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
