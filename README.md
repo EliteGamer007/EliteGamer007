@@ -5,8 +5,12 @@ I am Sanjeev Srinivas, pursuing a B.Sc degree from IIT Madras and a B.Tech degre
 I thrive on intriguing projects — whether they’re groundbreaking or just delightfully silly. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash⚡
 
 Slight affinity towards Machine Learning👾, Cloud Systems☁️ and Flask-based End-to-End Applications📚.
+
 Also interested in system architecture, DNS-level networking, and game design.
+
 Have written an research paper on Sitting Duck attacks
+
+GeoGuessr 🌍 nerd.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliteGamer007&layout=compact)
 
