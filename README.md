@@ -4,7 +4,7 @@ I am Sanjeev Srinivas, pursuing a B.Sc degree from IIT Madras and a B.Tech degre
 
 **Second Account** : https://github.com/24f1000511
 
-I thrive on intriguing projects — whether they’re groundbreaking or just delightfully silly. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash⚡
+I thrive on intriguing projects — whether they’re groundbreaking or just idk something unexplainable. It might take me a while to kickstart something new, but once I do… best believe it’s getting done in a flash⚡
 
 Slight affinity towards Machine Learning👾, Cloud Systems☁️ and Flask-based End-to-End Applications📚.
 
